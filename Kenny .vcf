@@ -1,9 +1,10 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//iPhone OS 18.7.3//EN
-N:;Kenny ;;;
-FN:Kenny 
-ORG:Napleton Kia;
-EMAIL;type=INTERNET;type=HOME;type=pref:kenny.higuera@napleton.com
-TEL;type=pref:+17089163357
+N:Higuera;Kenny;;;
+FN:Kenny Higuera
+ORG:Napleton Kia
+TITLE:Sales Consultant
+TEL;TYPE=CELL:+17089163357
+EMAIL;TYPE=WORK:kenny.higuera@napleton.com
+URL:https://napletonkia.com
 END:VCARD
